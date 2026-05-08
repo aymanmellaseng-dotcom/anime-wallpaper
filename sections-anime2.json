@@ -1,11 +1,11 @@
 {
   "sections": [
-    { "id": "Naruto", "title": "Naruto", "enabled": false },
-    { "id": "FullMetalAlchemist", "title": "Full Metal Alchemist", "enabled": false },
-    { "id": "SoloLeveling", "title": "Solo Leveling", "enabled": false },
-    { "id": "Attackontitans", "title": "Attack On Titans", "enabled": false },
-    { "id": "Jujutsukaisen", "title": "Jujutsu Kaisen", "enabled": false },
-    { "id": "Demonslayer", "title": "Demon Slayer", "enabled": false },
+    { "id": "Naruto", "title": "Naruto", "enabled": true },
+    { "id": "FullMetalAlchemist", "title": "Full Metal Alchemist", "enabled": true },
+    { "id": "SoloLeveling", "title": "Solo Leveling", "enabled": true },
+    { "id": "Attackontitans", "title": "Attack On Titans", "enabled": true },
+    { "id": "Jujutsukaisen", "title": "Jujutsu Kaisen", "enabled": true },
+    { "id": "Demonslayer", "title": "Demon Slayer", "enabled": true },
     { "id": "Onepiece", "title": "One Piece", "enabled": false },
     { "id": "Vinlandsaga", "title": "Vinland Saga", "enabled": false },
     { "id": "Deathnote", "title": "Death Note", "enabled": false },
