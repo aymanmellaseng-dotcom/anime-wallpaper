@@ -4,7 +4,7 @@
     { "id": "FullMetalAlchemist", "title": "Full Metal Alchemist", "enabled": true },
     { "id": "SoloLeveling", "title": "Solo Leveling", "enabled": true },
     { "id": "Attackontitans", "title": "Attack On Titans", "enabled": true },
-    { "id": "Jujutsukaisen", "title": "Jujutsu Kaisen", "enabled": false },
+    { "id": "Jujutsukaisen", "title": "Jujutsu Kaisen", "enabled": true },
     { "id": "Demonslayer", "title": "Demon Slayer", "enabled": true },
     { "id": "Onepiece", "title": "One Piece", "enabled": false },
     { "id": "Vinlandsaga", "title": "Vinland Saga", "enabled": false },
