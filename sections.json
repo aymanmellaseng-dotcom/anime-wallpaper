@@ -1,4 +1,5 @@
 {
+  "heroBannerEnabled": true,
   "sections": [
     { "id": "Naruto", "title": "Naruto", "enabled": false },
     { "id": "FullMetalAlchemist", "title": "Full Metal Alchemist", "enabled": true },
