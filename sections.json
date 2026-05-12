@@ -1,7 +1,7 @@
 {
   "heroBannerEnabled": false,
   "sections": [
-    { "id": "Naruto", "title": "Naruto", "enabled": false },
+    { "id": "Naruto", "title": "Naruto", "enabled": true },
     { "id": "FullMetalAlchemist", "title": "Full Metal Alchemist", "enabled": true },
     { "id": "SoloLeveling", "title": "Solo Leveling", "enabled": true },
     { "id": "Attackontitans", "title": "Attack On Titans", "enabled": true },
