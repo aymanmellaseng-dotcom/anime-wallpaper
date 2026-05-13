@@ -12,7 +12,7 @@
     { "id": "Dragonball", "title": "Dragon Ball", "enabled": true },
     { "id": "Hunterxhunter", "title": "Hunter X Hunter", "enabled": true },
     { "id": "Codegeass", "title": "Code Geass", "enabled": true },
-    { "id": "Hellsing", "title": "Hellsing", "enabled": false },
+    { "id": "Hellsing", "title": "Hellsing", "enabled": true },
     { "id": "Bleach", "title": "Bleach", "enabled": true },
     { "id": "Tokyorevengers", "title": "Tokyo Revengers", "enabled": true },
     { "id": "Blackclover", "title": "Black Clover", "enabled": true },
