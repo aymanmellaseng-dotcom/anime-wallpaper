@@ -1,22 +1,22 @@
 {
   "sections": [
-    { "id": "Naruto", "title": "Naruto", "enabled": true },
-    { "id": "FullMetalAlchemist", "title": "Full Metal Alchemist", "enabled": true },
-    { "id": "SoloLeveling", "title": "Solo Leveling", "enabled": true },
-    { "id": "Attackontitans", "title": "Attack On Titans", "enabled": true },
-    { "id": "Jujutsukaisen", "title": "Jujutsu Kaisen", "enabled": true },
-    { "id": "Demonslayer", "title": "Demon Slayer", "enabled": true },
-    { "id": "Onepiece", "title": "One Piece", "enabled": true },
-    { "id": "Vinlandsaga", "title": "Vinland Saga", "enabled": true },
-    { "id": "Deathnote", "title": "Death Note", "enabled": true },
-    { "id": "Dragonball", "title": "Dragon Ball", "enabled": true },
-    { "id": "Hunterxhunter", "title": "Hunter X Hunter", "enabled": true },
-    { "id": "Codegeass", "title": "Code Geass", "enabled": true },
-    { "id": "Hellsing", "title": "Hellsing", "enabled": true },
-    { "id": "Bleach", "title": "Bleach", "enabled": true },
-    { "id": "Tokyorevengers", "title": "Tokyo Revengers", "enabled": true },
-    { "id": "Blackclover", "title": "Black Clover", "enabled": true },
-    { "id": "Tokyoghoul", "title": "Tokyo Ghoul", "enabled": true }
+    { "id": "Naruto", "title": "Naruto", "enabled": false },
+    { "id": "FullMetalAlchemist", "title": "Full Metal Alchemist", "enabled": false },
+    { "id": "SoloLeveling", "title": "Solo Leveling", "enabled": false },
+    { "id": "Attackontitans", "title": "Attack On Titans", "enabled": false },
+    { "id": "Jujutsukaisen", "title": "Jujutsu Kaisen", "enabled": false },
+    { "id": "Demonslayer", "title": "Demon Slayer", "enabled": false },
+    { "id": "Onepiece", "title": "One Piece", "enabled": false },
+    { "id": "Vinlandsaga", "title": "Vinland Saga", "enabled": false },
+    { "id": "Deathnote", "title": "Death Note", "enabled": false },
+    { "id": "Dragonball", "title": "Dragon Ball", "enabled": false },
+    { "id": "Hunterxhunter", "title": "Hunter X Hunter", "enabled": false },
+    { "id": "Codegeass", "title": "Code Geass", "enabled": false },
+    { "id": "Hellsing", "title": "Hellsing", "enabled": false },
+    { "id": "Bleach", "title": "Bleach", "enabled": false },
+    { "id": "Tokyorevengers", "title": "Tokyo Revengers", "enabled": false },
+    { "id": "Blackclover", "title": "Black Clover", "enabled": false },
+    { "id": "Tokyoghoul", "title": "Tokyo Ghoul", "enabled": false }
     
   ]
 }
